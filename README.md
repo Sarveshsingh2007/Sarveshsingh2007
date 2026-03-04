@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sarvesh Singh</h1>
 
-<!--
-**Sarveshsingh2007/Sarveshsingh2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Software Developer | DSA Learner | Python & Django Developer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Currently learning **Data Structures & Algorithms**
+- 🌱 Learning **Django for Backend Development**
+- 👨‍💻 Building projects with **Python & Flask**
+- 🎯 Preparing for **Software Developer roles**
+
+---
+
+### 🛠 Skills
+
+- 💻 Languages: Python, C++, JavaScript  
+- 🌐 Web: Flask, Django, HTML, CSS  
+- 🗄 Database: MySQL  
+- 🧠 Concepts: Data Structures & Algorithms  
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarveshsingh2007&show_icons=true)
+
+---
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sarveshsingh2007)
+
+---
+
+### 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME)
+
+---
+
+### 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/sarveshsingh2007
