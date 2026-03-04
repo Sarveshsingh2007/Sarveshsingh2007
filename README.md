@@ -9,14 +9,14 @@
 ### 🚀 About Me
 - 🔭 Currently learning **Data Structures & Algorithms**
 - 🌱 Learning **Django for Backend Development**
-- 👨‍💻 Building projects with **Python & Flask**
+- 👨‍💻 Building projects with **Python & Django**
 - 🎯 Preparing for **Software Developer roles**
 
 ---
 
 ### 🛠 Skills
 
-- 💻 Languages: Python, C++, JavaScript  
+- 💻 Languages: Python, C++, JavaScript, Java  
 - 🌐 Web: Flask, Django, HTML, CSS  
 - 🗄 Database: MySQL  
 - 🧠 Concepts: Data Structures & Algorithms  
