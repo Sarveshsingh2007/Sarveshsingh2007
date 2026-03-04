@@ -23,12 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarveshsingh2007&show_icons=true)
-
----
-
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sarveshsingh2007)
