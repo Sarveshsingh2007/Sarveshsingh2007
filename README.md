@@ -26,14 +26,6 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Sarveshsingh2007&theme=tokyonight" />
-</p>
-
----
-
 ### 📅 GitHub Contribution Calendar
 
 <p align="center">
@@ -50,12 +42,6 @@
 
 ---
 
-### 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarveshsingh2007&theme=tokyo-night)](https://github.com/Sarveshsingh2007)
-
----
-
 ### ⌨️ Monkeytype Stats
 
 <p align="center">
@@ -69,6 +55,20 @@
 ⚡ Average Speed: 72+ WPM <br>
 🎯 Accuracy: 95% - 100%
 </p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Sarveshsingh2007&theme=tokyonight" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarveshsingh2007&theme=tokyo-night)](https://github.com/Sarveshsingh2007)
 
 ---
 
