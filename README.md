@@ -26,14 +26,6 @@
 
 ---
 
-### 📅 GitHub Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/Sarveshsingh2007" alt="GitHub Contribution Chart" />
-</p>
-
----
-
 ### 🧠 LeetCode Stats
 
 <p align="center">
