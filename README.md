@@ -56,6 +56,22 @@
 
 ---
 
+### ⌨️ Monkeytype Stats
+
+<p align="center">
+  <a href="https://monkeytype.com/profile/sarvesh-singh">
+    <img src="https://img.shields.io/badge/Monkeytype-82_WPM-yellow?style=for-the-badge&logo=typing&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+🔥 Best Speed: 82 WPM <br>
+⚡ Average Speed: 72+ WPM <br>
+🎯 Accuracy: 95% - 100%
+</p>
+
+---
+
 ### 📫 Connect With Me
 
 - GitHub: https://github.com/Sarveshsingh2007
