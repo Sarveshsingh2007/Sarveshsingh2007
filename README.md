@@ -4,10 +4,6 @@
 💻 Software Developer | DSA Learner | Python & Django Developer
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Learner;DSA+Enthusiast;Future+Software+Engineer" />
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -41,15 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarveshsingh2007&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarveshsingh2007&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ### 🔥 GitHub Streak
 
 <p align="center">
@@ -80,14 +67,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sarveshsingh2007&theme=onedark&row=1&column=6" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 <p align="left">
@@ -103,12 +82,6 @@
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40" width="40" />
 </a>
 </p>
-
----
-
-### 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Sarveshsingh2007&color=blueviolet&style=for-the-badge)
 
 ---
 
