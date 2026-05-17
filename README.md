@@ -45,6 +45,14 @@
 
 ---
 
+### 📅 GitHub Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/Sarveshsingh2007" alt="GitHub Contribution Chart" />
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
