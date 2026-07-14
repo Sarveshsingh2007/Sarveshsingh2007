@@ -6,23 +6,28 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 Currently learning **Data Structures & Algorithms**
-- 🌱 Learning **Django for Backend Development**
-- 👨‍💻 Building projects with **Python & Django**
-- 🎯 Preparing for **Software Developer roles**
-- 💻 Solving problems regularly on **LeetCode**
+```yaml
+🎓 Education : B.Tech CSE Student
+☕ Focus      : Java Backend Development
+🌱 Learning  : Spring Framework • Spring Boot • Spring Security
+               Hibernate • JDBC • Docker • Microservices • Spring AI
+👨‍💻 Building  : Backend Applications with Java & Spring Boot
+🐍 Experience : Python • Django • Flask
+💻 Practice   : Data Structures & Algorithms
+🎯 Goal       : Java Backend Developer
+```
 
----
+## 🛠 Skills
 
-### 🛠 Skills
-
-- 💻 Languages: Python, C++, JavaScript, Java
-- 🌐 Web Technologies: Flask, Django, HTML, CSS
-- 🗄 Database: MySQL
-- ⚙️ Tools: Git, GitHub
-- 🧠 Concepts: Data Structures & Algorithms
+| Category | Technologies |
+|----------|--------------|
+| 💻 Languages | Java • Python • C++ • JavaScript |
+| 🌐 Backend | Spring Framework • Spring Boot • Spring MVC • Spring Security • Spring Data JPA • Hibernate • JDBC • Django • Flask |
+| 🗄 Database | MySQL |
+| ⚙️ Tools | Git • GitHub • Maven • Docker • IntelliJ IDEA • VS Code |
+| 🧠 Concepts | OOP • Data Structures & Algorithms • REST APIs • Microservices • JWT Authentication |
 
 ---
 
