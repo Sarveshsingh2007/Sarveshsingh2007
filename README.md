@@ -8,26 +8,43 @@
 
 ## 🚀 About Me
 
-```yaml
-🎓 Education : B.Tech CSE Student
-☕ Focus      : Java Backend Development
-🌱 Learning  : Spring Framework • Spring Boot • Spring Security
-               Hibernate • JDBC • Docker • Microservices • Spring AI
-👨‍💻 Building  : Backend Applications with Java & Spring Boot
-🐍 Experience : Python • Django • Flask
-💻 Practice   : Data Structures & Algorithms
-🎯 Goal       : Java Backend Developer
-```
+🎓 **B.Tech CSE Student**
+
+☕ **Currently Mastering Java Backend Development**
+
+🌱 **Learning**
+![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+👨‍💻 Building real-world backend applications using **Java & Spring Boot**
+
+🐍 Experienced in **Python • Django • Flask**
+
+💻 Solving **Data Structures & Algorithms**
+
+🎯 Preparing for **Java Backend Developer Roles**
+
+---
 
 ## 🛠 Skills
 
-| Category | Technologies |
-|----------|--------------|
-| 💻 Languages | Java • Python • C++ • JavaScript |
-| 🌐 Backend | Spring Framework • Spring Boot • Spring MVC • Spring Security • Spring Data JPA • Hibernate • JDBC • Django • Flask |
-| 🗄 Database | MySQL |
-| ⚙️ Tools | Git • GitHub • Maven • Docker • IntelliJ IDEA • VS Code |
-| 🧠 Concepts | OOP • Data Structures & Algorithms • REST APIs • Microservices • JWT Authentication |
+### 💻 Languages
+`Java` • `Python` • `C++` • `JavaScript`
+
+### 🌐 Backend
+`Spring Framework` • `Spring Boot` • `Spring MVC` • `Spring Security` • `Spring Data JPA` • `Hibernate` • `JDBC` • `Django` • `Flask`
+
+### 🗄 Database
+`MySQL`
+
+### ⚙️ Tools
+`Git` • `GitHub` • `Maven` • `Docker` • `IntelliJ IDEA` • `VS Code`
+
+### 🧠 Concepts
+`OOP` • `Data Structures & Algorithms` • `REST APIs` • `Microservices` • `JWT Authentication`
 
 ---
 
