@@ -37,6 +37,7 @@
 
 ### 🗄 Database
 - MySQL
+- PostgreSQL
 
 ### ⚙️ Tools & Technologies
 - Git
